@@ -22,6 +22,7 @@ const useStyles = makeStyles((theme) => ({
         "& > ul > li > a": {
             textDecoration: "none",
             color: "black",
+            whiteSpace: "nowrap"
         },
         "& > ul > li:nth-child(1) > a": {
             // marginRight: "450px",
